@@ -1,0 +1,7 @@
+{
+    "autoload" : {
+        "mvc\\test": "test" ,
+        "mvc\\adel" : "adel" ,
+        "mvc\\debug" : "Debug"
+    }
+}
